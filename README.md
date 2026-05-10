@@ -1,3 +1,3 @@
-- 🙋‍♂️ Hi, I’m @ThePythonSeal
+- 🙋‍♂️ Hi, I’m @TheLinuxSeal
 - 👀 I’m interested in coding on python and https://scratch.mit.edu
 - 👍 My favorite animal is a 🦭 (seal)
