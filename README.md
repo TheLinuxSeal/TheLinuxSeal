@@ -1,4 +1,4 @@
-- 🙋‍♂️ Hi, I’m @TheLinuxSeal
-- 👀 I’m interested in coding on Java and Python
-- 🐧 I also use Linux, and I use Arch and NixOS BTW
-- 👍 My favorite animal is a 🦭 (seal)
+- 🙋‍♂️ Hi, I’m @TheLinuxSeal.
+- 👀 I’m interested in coding on Java, Python, and my new programming language, Seal.
+- 🐧 I also use Linux, and I use Arch and NixOS BTW.
+- 👍 My favorite animal is a 🦭 (seal).
